@@ -1,0 +1,28 @@
+object Form1: TForm1
+  Left = 2414
+  Height = 493
+  Top = 241
+  Width = 517
+  Caption = 'Simple Calc'
+  ClientHeight = 493
+  ClientWidth = 517
+  LCLVersion = '2.0.6.0'
+  object Edit1: TEdit
+    Left = 16
+    Height = 34
+    Top = 16
+    Width = 480
+    Font.Height = -19
+    Font.Name = 'Sans'
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 32
+    Height = 56
+    Top = 88
+    Width = 96
+    Caption = 'Button1'
+    TabOrder = 1
+  end
+end
